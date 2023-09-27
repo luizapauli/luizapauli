@@ -1,7 +1,6 @@
 ### Hey, how are you doing?! I'm Luiza Pauli de Castro. 🙂
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiza-pauli-c)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luizapauli.c@gmail.com)
 
 ## Tech used 💻
 
