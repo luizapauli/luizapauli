@@ -1,15 +1,13 @@
 ### Hey, how are you doing?! I'm Luiza Pauli de Castro. 🙂
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/luiza-pauli-c)
+Developer in training. Interested in learning about the most diverse areas of computing. Specific interests: Cryptography, Data Analysis and Web Development.
+</div><br/>
 
 ## Tech used 💻
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</div><br/>
-
-Developer in training. Interested in learning about the most diverse areas of computing. Specific interests: Cryptography, Data Analysis and Web Development.
 </div><br/>
 
 ## Tools
